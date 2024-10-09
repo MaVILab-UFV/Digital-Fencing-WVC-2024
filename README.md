@@ -13,7 +13,7 @@ If you find this work useful for your research, please cite our paper:
     year         = 2024,
     booktitle    = {Proceedings of the XIX Workshop de Visão Computacional (WVC)},
     organization = {WVC},
-    url          = {http://urlib.net/ibi/8JMKD3MGPEW34M/4BU46CP}
+    url          = {}
 }
 
 ```
