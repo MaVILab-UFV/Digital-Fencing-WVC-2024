@@ -17,3 +17,30 @@ If you find this work useful for your research, please cite our paper:
 }
 
 ```
+
+## Contact
+
+### Authors
+
+| [Juliana Quintiliano Ferreira](https://github.com/julianaferreira) | [Lucas Silva](https://github.com/lucassilva) | [Thiago L. Gomes](https://github.com/thiagoluange) | [Michel Melo Silva](https://michelmelosilva.github.io/) |
+| :---------------------------------------------------------------: | :------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------------: |
+|                              MSc. Student¹                        |                 BSc. Student¹                |                Assistant Professor¹               |                Assistant Professor¹                   |
+|               <juliana.q.ferreira@ufv.br>                         |           <lucas.silva23@ufv.br>             |           <thiago.luange@ufv.br>                  |           <michel.m.silva@ufv.br>                    |
+
+¹Universidade Federal de Viçosa  
+Departamento de Informática  
+Viçosa, Minas Gerais, Brazil
+
+
+
+### Laboratory
+
+| [<img src="https://raw.githubusercontent.com/MaVILab-UFV/mavilab-ufv.github.io/main/images/mavilab-logo.svg" height="300" alt="MaVILab" />](https://mavilab-ufv.github.io/) | [<img src="ufv.png" height="300" alt="UFV" />](https://www.ufv.br/) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+
+**MaVILab**: Machine Vision and Intelligence Laboratory \
+ <https://mavilab-ufv.github.io>
+
+## Acknowledgements
+
+We would like to thank CAPES, CNPq and FAPEMIG, for supporting this project.
