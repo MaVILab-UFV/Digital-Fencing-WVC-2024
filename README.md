@@ -4,6 +4,8 @@ Welcome to the repository for our paper “Digital Fencing for Farms: Enhancing 
 
 [![Overview of our method](overview.png)]
 
+> Overview of our method, which is divided into three steps. The first step involves data preparation, where image datasets are selected, and their annotations are converted to a unified format (YOLO format). These images and annotations are then merged into a single dataset. In the second step, subsets of data and classes (SmartClass) are created to ensure consistent class annotations. Finally, in the third step, models are trained using the YOLOv8 architecture with transfer learning.
+
 If you find this work useful for your research, please cite our paper:
 
 ```bibtex
