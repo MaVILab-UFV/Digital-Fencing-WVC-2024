@@ -19,6 +19,29 @@ If you find this work useful for your research, please cite our paper:
 }
 
 ```
+## Create Digital-Fence-Dataset
+
+You can create the Digital-Fence-Dataset used in our article by following the steps:
+
+- Download the APT36k dataset from: https://github.com/pandorgan/APT-36K
+
+- Download the NREC dataset from: https://www.nrec.ri.cmu.edu/solutions/agriculture/other-agriculture-projects/human-detection-and-tracking.html
+
+- Download the COWS2021 dataset from: https://github.com/Wormgit/Cows2021
+
+- Download the COCO dataset from: https://cocodataset.org/#home
+
+After downloading all the datasets, run the annotation conversion algorithms, available in this repository, for each one.
+- convert_apt36k_coco_to_yolo.py
+- convert_nrec_voc_to_yolo.py
+- convert_cows2021_voc_to_yolo.py
+- convert_coco_to_yolo.py
+
+## Create SmartClass models
+
+Run the create_smartClass.py algorithm to create the dataset for each SmartClass model. Note that within each SmartClass dataset there will be a txt file informing the classes of this SmartClass. Then, perform a training and validation split on the dataset and train each SmartClass separately.
+
+To train the models, use train_exemple.py and smartClass_exemple.yaml. Create the yaml according to the txt file generated inside the folder of each SmartClass dataset.
 
 ## Contact
 

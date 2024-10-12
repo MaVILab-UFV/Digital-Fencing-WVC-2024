@@ -1,0 +1,16 @@
+train: /homeLocal/julianaquin/datasets/SmartClass_2/images/train
+val: /homeLocal/julianaquin/datasets/SmartClass_2/images/val
+test: /homeLocal/julianaquin/datasets/SmartClass_2/images/val
+
+nc: 9 
+
+names:
+  0: cat
+  1: dog
+  2: horse
+  3: sheep
+  4: cow
+  5: elephant
+  6: bear
+  7: zebra
+  8: giraffe
