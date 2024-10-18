@@ -43,6 +43,12 @@ Run the create_smartClass.py algorithm to create the dataset for each SmartClass
 
 To train the models, use train_exemple.py and smartClass_exemple.yaml. Create the yaml according to the txt file generated inside the folder of each SmartClass dataset.
 
+## Weights
+
+Our weights are available in this repository in the folders weights_model_1, weights_model_2 and weights_smartClass.
+
+If you want to do inference by merging SmartClass predictions, use the code predict_SmartClass_models.py.
+
 ## Contact
 
 ### Authors
