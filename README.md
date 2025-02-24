@@ -1,5 +1,8 @@
 # Digital Fencing for Farms: Enhancing Object Detection through Multi-Dataset Integration
 
+| [Paper](https://doi.org/10.22456/2175-2745.143486) | 
+| -------------------------------------------------- |
+
 Welcome to the repository for our paper “Digital Fencing for Farms: Enhancing Object Detection through Multi-Dataset Integration”, accepted at XIX Workshop de Visão Computacional (WVC), 2024.
 
 [![Overview of our method](overview.png)]
